@@ -4,3 +4,6 @@ eureka:
     register-with-eureka: true
   instance:
     prefer-ip-address: true
+spring:
+  application:
+    name: CONFIG-SERVER
